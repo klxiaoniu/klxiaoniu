@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klxiaoniu
 - 👀 I’m interested in coding and android
-- 🌱 I’m currently learning C and Java
+- 🌱 I’m currently learning C, Java and Kotlin
 - 📫 Mail me at: klxn@vip.qq.com
 
 <!---
