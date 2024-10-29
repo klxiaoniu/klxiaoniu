@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding and android
 - 🌱 I’m currently learning C, Java and Kotlin
 - 📫 Mail me at: klxn@vip.qq.com
+- ✨ Visit my blog: [klxiaoniu.top](https://www.klxiaoniu.top)
 
 
 
