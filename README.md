@@ -7,8 +7,8 @@
 
 
 <div>
-    <img height="179rem" src="https://github-readme-stats.vercel.app/api?username=klxiaoniu&show_icons=true&hide_border=true&hide_title=false">
-    <img height="179rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klxiaoniu&hide_border=true&layout=compact&hide_title=false">
+    <img height="179rem" src="https://github.com/klxiaoniu/klxiaoniu/raw/refs/heads/output/stats.svg">
+    <img height="179rem" src="https://github.com/klxiaoniu/klxiaoniu/raw/refs/heads/output/top-langs.svg">
 </div>
 
 ![Contribution Snake](https://github.com/klxiaoniu/klxiaoniu/raw/refs/heads/output/github-contribution-grid-snake.svg)
