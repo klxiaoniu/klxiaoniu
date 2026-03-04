@@ -24,7 +24,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&theme=transparent
           path: dist/stats.svg
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
@@ -32,7 +32,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&theme=transparent
           path: dist/top-langs.svg
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
@@ -43,7 +43,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
